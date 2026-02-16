@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : ABISHEIK PRIYAN V
+ #### REGISTER NUMBER : 212224230005
+ #### DEPARTMENT : AIDS
+ #### YEAR : 2ND
 
  
 # Aim:
@@ -83,15 +83,36 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 # Simulation Screenshots 
 
 
+<img width="602" height="498" alt="546741409-902fc7be-b6a9-4253-a335-12cdb8765e5e" src="https://github.com/user-attachments/assets/ad6b047a-547e-4a5b-a658-3c6f96578a47" />
+
+
+
+
+
+<img width="575" height="631" alt="546741439-e5366939-89e7-4f94-857b-2e81edb80070" src="https://github.com/user-attachments/assets/320622fe-b1f1-4fd1-ba10-aa11b4d06504" />
 
 
 
 
 
 
+<img width="841" height="443" alt="546741469-dcd9485a-aad9-4bc5-aa6e-767279b72ecb" src="https://github.com/user-attachments/assets/4c620e63-d621-4360-ae40-9433619aa044" />
 
 
 
+<img width="696" height="640" alt="546741497-0f969f24-0513-49ec-85b5-47d8d33086a2" src="https://github.com/user-attachments/assets/95f0eff0-696e-451d-8bf6-57bfa047d9ce" />
+
+
+
+
+<img width="629" height="576" alt="546741535-af8a1257-e7d0-4f99-98ab-4e4932bc827b" src="https://github.com/user-attachments/assets/c8e4047f-c9ff-4caf-b116-65470946b371" />
+
+
+
+<img width="785" height="237" alt="546741573-a8aeabc8-683c-4f50-9ecd-bde0034e10e3" src="https://github.com/user-attachments/assets/b8b42b58-cc27-4b60-9727-0d7e92598e8e" />
+
+
+<img width="1900" height="1079" alt="546742078-bb132853-c7dd-4a95-b303-01a0b2bf79cb" src="https://github.com/user-attachments/assets/1213d62f-c7a9-4f3a-a3c0-4a1ccb2b2677" />
 
 
 
